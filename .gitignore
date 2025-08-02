@@ -1,0 +1,8 @@
+node_modules/
+.env
+.log
+.DS_Store
+dist/
+build/
+red-black-shop-firebase-adminsdk-fbsvc-eafa820ea6.json
+npm install discord.js dotenv
